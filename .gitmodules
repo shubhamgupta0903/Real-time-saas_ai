@@ -1,0 +1,3 @@
+[submodule "my-nextjs-app"]
+	path = my-nextjs-app
+	url = https://github.com/shubhamgupta0903/saas_ai_frontend.git
